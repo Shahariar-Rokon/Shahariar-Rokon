@@ -83,7 +83,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariar-Rokon&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Shahariar-Rokon)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shahariar-Rokon)  
 
